@@ -6,7 +6,7 @@ This repository contains sample python programs for studying the fundamentals of
 * Windows 11 64bit
 
 ## Executing program
-* Program can be run by executing <filename>.py
+* Program can be run by executing _filename.py_
 
 ## Exercise 01 to 03
 * Exercises covering sample hello world, sample documentation, lists, tuples and dictionaires
