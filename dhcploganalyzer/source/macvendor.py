@@ -28,7 +28,7 @@ def macvendor(mac_addr):
 if __name__ == '__main__':
     print("This module executes as a standalone script")
     input_mac_address = str(input("Enter the Mac address, example bc:5f:f4 or full mac_addr : "))
-    result = macvendor(input_mac_addreess)
+    result = macvendor(input_mac_address)
     print(result)
 else:
     pass
